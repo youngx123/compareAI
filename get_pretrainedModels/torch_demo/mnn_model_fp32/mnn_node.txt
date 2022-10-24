@@ -1,0 +1,14 @@
+
+torch_res50_sim.mnn
+
+inputTensors : [ images, ]
+outputTensors: [ output, ]
+
+
+
+torch_vgg16.mnn
+
+inputTensors : [ images, ]
+outputTensors: [ output, ]
+
+

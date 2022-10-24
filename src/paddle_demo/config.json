@@ -1,0 +1,12 @@
+{
+       "modelFile": "./model/bsd_0926_x86.nb",
+       "label_file" :"./model/label_file.txt",
+       "testDir" :"./eval_data",
+       "saveDir":"./result", 
+       "output_node": "output",
+       "img_width":224,
+       "img_height":128,
+       "thread_num":1 ,
+        // 0 for cpu
+       "mode" : 0
+}
